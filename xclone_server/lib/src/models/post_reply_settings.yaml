@@ -1,0 +1,6 @@
+enum: PostReplySettings
+values: 
+  - everyone
+  - follows
+  - mentions
+  

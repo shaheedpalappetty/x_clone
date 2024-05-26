@@ -1,0 +1,6 @@
+example:
+  - hello:
+post:
+  - createPost:
+  - deletePost:
+  - getAllPosts:
